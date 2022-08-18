@@ -1,0 +1,8 @@
+prefix=/home/zubuntu/Projects/turtle/catkin_ws/install
+
+Name: simple_layers
+Description: Description of simple_layers
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

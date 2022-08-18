@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zubuntu/Projects/turtle/catkin_ws/build/gmock/lib/libgtest.a CMakeFiles/gtest.dir/src/gtest-all.cc.o
+/usr/bin/ranlib /home/zubuntu/Projects/turtle/catkin_ws/build/gmock/lib/libgtest.a
